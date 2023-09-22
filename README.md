@@ -20,3 +20,12 @@ Vi skal ikke installere [Visual Studie Code - VSCode](https://www.notion.so/merc
 ### Modul 5 - [Create methods in C# console applications](https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-5/)
 
 ### Modul 6 - [Debug C# console applications](https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-6/)
+
+Nogle af jer har allerede en del kode-erfaring og måske endda C#-erfaring. Så hvis man kommer hurtig igennem opgaverne er der lidt ekstra opgaver her: 
+[Find the cat game](https://www.notion.so/Find-the-cat-game-e424e3a12a2b46c4b3a73e8167dfd624?pvs=21) 
+
+[Hangman](https://www.notion.so/Hangman-84b65f0e3b8b43e7ab2a2cba9a260940?pvs=21) 
+
+[Wordle](https://www.notion.so/Wordle-101117d07e79459c8fc5b74e6984516a?pvs=21) 
+
+[Nærmeste punkt / Korteste rute](https://www.notion.so/N-rmeste-punkt-Korteste-rute-09f61913f45948bc84ed0fb2525a9a67?pvs=21)
