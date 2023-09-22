@@ -21,9 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dag 1.2 - Guided project - 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dag 1.3 - Guided project - Calculate final GPA", "Dag 1 - Guided project - Calculate final GPA\Dag 1.3 - Guided project - Calculate final GPA.csproj", "{D0492E9D-5F60-42F4-AF7C-8A8DDD06BFD5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dag 2.3 - Guided project - Develop foreach and if-elseif-else structures to process array data in C#", "Dag 2 - Guided project - Develop foreach and if-elseif-else structures to process array data in C#\Dag 2.3 - Guided project - Develop foreach and if-elseif-else structures to process array data in C#.csproj", "{9F35E36B-96FD-4587-B113-B793C995677E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dag 2.2 - Guided project - Develop foreach and if-elseif-else structures to process array data in C#", "Dag 2 - Guided project - Develop foreach and if-elseif-else structures to process array data in C#\Dag 2.2 - Guided project - Develop foreach and if-elseif-else structures to process array data in C#.csproj", "{9F35E36B-96FD-4587-B113-B793C995677E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dag 2.2 - Challenge project - Develop foreach and if-elseif-else structures to process array data in C#", "Dag 2 - Challenge project - Develop foreach and if-elseif-else structures to process array data in C#\Dag 2.2 - Challenge project - Develop foreach and if-elseif-else structures to process array data in C#.csproj", "{40B5CD9D-1A7F-44FD-8CF0-E24B507AEEB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dag 2.3 - Challenge project - Develop foreach and if-elseif-else structures to process array data in C#", "Dag 2 - Challenge project - Develop foreach and if-elseif-else structures to process array data in C#\Dag 2.3 - Challenge project - Develop foreach and if-elseif-else structures to process array data in C#.csproj", "{40B5CD9D-1A7F-44FD-8CF0-E24B507AEEB8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dag 2.1 - ConsolApp", "Dag 2 - ConsolApp\Dag 2.1 - ConsolApp.csproj", "{EE422B32-0EDD-4BED-A702-371DFE228613}"
 EndProject
@@ -49,7 +49,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dag 6.2 - Guided project - 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dag 6.3 - Challenge project - Debug a C# console application using Visual Studio Code", "Dag 6.3 - Challenge project - Debug a C# console application using Visual Studio Code\Dag 6.3 - Challenge project - Debug a C# console application using Visual Studio Code.csproj", "{040BD663-83CF-4C78-8C66-634535B8DCB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dag 6.1 - ConsoleApp - Debugging", "Dag 6.1 - ConsoleApp - Debugging\Dag 6.1 - ConsoleApp - Debugging.csproj", "{2BA19484-B5AF-4141-BEF4-15E76B56D26E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dag 6.1 - ConsoleApp - Debugging", "Dag 6.1 - ConsoleApp - Debugging\Dag 6.1 - ConsoleApp - Debugging.csproj", "{2BA19484-B5AF-4141-BEF4-15E76B56D26E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
