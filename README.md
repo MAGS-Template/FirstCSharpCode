@@ -21,6 +21,8 @@ Vi skal ikke installere [Visual Studie Code - VSCode](https://www.notion.so/merc
 
 ### Modul 6 - [Debug C# console applications](https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-6/)
 
+Debugging kan man selv vælge enten at gøre i [Visual Studie Code](https://www.notion.so/mercantec/Visual-Studie-Code-VSCode-7ae261e136d24ffe851bd290a260976d?pvs=4) som opgaverne specificere eller [Visual Studio](https://www.notion.so/mercantec/Visual-Studio-233c96d7687a4594bd670674e3cf39dc?pvs=4). Vi vil klart anbefale den sidste, da det er den [IDE](https://www.notion.so/mercantec/IDE-2478d6538a004ae78b323d80bce7f0d2?pvs=4) som vi bruger på flest hovedforløb!
+
 ### Ekstra opgaver
 
 Nogle af jer har allerede en del kode-erfaring og måske endda C#-erfaring. Så hvis man kommer hurtig igennem opgaverne er der lidt ekstra opgaver her: <br>
