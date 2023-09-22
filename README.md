@@ -1,6 +1,7 @@
 # Jeres første C# kode 
 
 Vi følger et 6 modul kursus fra Microsoft Learn - derudover er der ekstra opgaver under dette repo! 
+Alle filer burde gerne være der så i kan lave guides og udfordringer fra siderne uden at hente ekstra!
 
 ### Modul 1 - [Write your first code using C#](https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-1/)
 
