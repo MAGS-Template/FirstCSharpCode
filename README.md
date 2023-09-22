@@ -21,7 +21,9 @@ Vi skal ikke installere [Visual Studie Code - VSCode](https://www.notion.so/merc
 
 ### Modul 6 - [Debug C# console applications](https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-6/)
 
-Nogle af jer har allerede en del kode-erfaring og måske endda C#-erfaring. Så hvis man kommer hurtig igennem opgaverne er der lidt ekstra opgaver her: 
+### Ekstra opgaver
+
+Nogle af jer har allerede en del kode-erfaring og måske endda C#-erfaring. Så hvis man kommer hurtig igennem opgaverne er der lidt ekstra opgaver her: <br>
 
 [Find the cat game](https://www.notion.so/Find-the-cat-game-e424e3a12a2b46c4b3a73e8167dfd624?pvs=21) 
 
