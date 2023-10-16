@@ -1,6 +1,7 @@
 # Jeres første C# kode 
 
 Vi følger et 6 modul kursus fra Microsoft Learn - derudover er der ekstra opgaver under dette repo! 
+Alle filer burde gerne være der så i kan lave guides og udfordringer fra siderne uden at hente ekstra!
 
 ### Modul 1 - [Write your first code using C#](https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-1/)
 
@@ -20,6 +21,8 @@ Vi skal ikke installere [Visual Studie Code - VSCode](https://www.notion.so/merc
 ### Modul 5 - [Create methods in C# console applications](https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-5/)
 
 ### Modul 6 - [Debug C# console applications](https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-6/)
+
+Debugging kan man selv vælge enten at gøre i [Visual Studie Code](https://www.notion.so/mercantec/Visual-Studie-Code-VSCode-7ae261e136d24ffe851bd290a260976d?pvs=4) som opgaverne specificere eller [Visual Studio](https://www.notion.so/mercantec/Visual-Studio-233c96d7687a4594bd670674e3cf39dc?pvs=4). Vi vil klart anbefale den sidste, da det er den [IDE](https://www.notion.so/mercantec/IDE-2478d6538a004ae78b323d80bce7f0d2?pvs=4) som vi bruger på flest hovedforløb!
 
 ### Ekstra opgaver
 
